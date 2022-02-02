@@ -9,6 +9,8 @@ Arabic sentiment analysis is the process of computationally identifying and cate
 -Python Libraries:
 
     -sklearn.
+    
+    -numpy
   
     -Pandas.
   
