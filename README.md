@@ -1,7 +1,7 @@
 # Arabic-Sentiment-Analysis
 ## 1.  Project Overview 
 
-This project to build a sentiment analysis for English Movies dataset and Arabic Posts.
+Arabic sentiment analysis is the process of computationally identifying and categorizing opinions expressed in a piece of arabic text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral 
 
 ## 2.  Installation
 -Python versions 3.*.
@@ -16,7 +16,10 @@ This project to build a sentiment analysis for English Movies dataset and Arabic
   
     -nltk
     
+    -keras
+    
     -re.
 
-## 3.  Data 
+
+
 
